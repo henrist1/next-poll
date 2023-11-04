@@ -1,0 +1,26 @@
+[
+  {
+    "pollId": "1698946927634",
+    "question": "Test",
+    "options": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "pollId": "1699092512182",
+    "question": "Test Question?",
+    "options": [
+      "Option 1",
+      "Option 2"
+    ]
+  },
+  {
+    "pollId": "1699092972070",
+    "question": "eple eller banan",
+    "options": [
+      "eple",
+      "banan"
+    ]
+  }
+]

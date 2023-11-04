@@ -1,0 +1,32 @@
+[
+  {
+    "answerId": "1698946937800",
+    "userId": "dummyUserId",
+    "pollId": "1698946927634",
+    "selectedOption": "1"
+  },
+  {
+    "answerId": "1699086569271",
+    "userId": "dummyUserId",
+    "pollId": "1698946927634",
+    "selectedOption": "1"
+  },
+  {
+    "answerId": "1699086582631",
+    "userId": "dummyUserId",
+    "pollId": "1698946927634",
+    "selectedOption": "2"
+  },
+  {
+    "answerId": "1699092986564",
+    "userId": "dummyUserId",
+    "pollId": "1699092972070",
+    "selectedOption": "eple"
+  },
+  {
+    "answerId": "1699093918306",
+    "userId": "test6@gmail.com",
+    "pollId": "1699092972070",
+    "selectedOption": "banan"
+  }
+]
